@@ -1,3 +1,5 @@
 # ballistic_test
 
-09-24 c++ scientific computing class
+## 09-24 C++ scientific computing class
+
+Simple ballistic test in c++.
